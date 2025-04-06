@@ -1,6 +1,4 @@
-Sure, Balaji! Here's a **detailed blog-style write-up on Azure Compute Services** — suitable for a post on Medium, LinkedIn, or your student community tech blog. It covers all the essential services with examples, use cases, and diagrams (which I can generate too, if you'd like).
 
----
 
 # 🚀 Demystifying Azure Compute Services: The Backbone of Cloud Workloads
 
